@@ -93,6 +93,8 @@ Starting today, I'm taking action in several measurable and concrete ways:
 
 -  I'm selectively choosing the businesses that get my money.  Businesses that have taken a stance against these policies get preference. Businesses that have turned a blind eye, or praised these policies get cancellation notices from me.
 
+-  I'm increasing my donation to the ACLU.  I started a monthly donation to the ACLU when Trump was elected.  I'm doubling my donation now.  We need someone to protect us, and the ACLU has show it is willing to lead the way.
+
 I know there is more I can do, and I'll update this post as I think of items.  What are you doing?  How can we make it bigger?  Send me an email - bketelsen@gmail.com and let me know.
 
 One thing is certain though.  I'm done watching this country self-destruct.  This Veteran has had enough.
