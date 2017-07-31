@@ -16,7 +16,7 @@ I've recently taken on a new role at Microsoft as a Cloud Developer Advocate for
 
 This year we used [Buffalo](https://gobuffalo.io) and [Ponzu](https://ponzu-cms.org) as the main components of the website for Gophercon.  Generally it was a huge improvement over our previous [hugo](https://gohugo.io) workflow, because Ponzu allowed us to get non-technical people contributing content.  Hugo is amazing, but requiring `git` limits the people who can edit the site.
 
-For 2018 I want to step up my game and build the site using [GopherJS](https://gopherjs.org).  [Paul Jolly](https://twitter.com/_myitcv) has built some really clean React bindings for GopherJS, and I think this is a good opportunity for me to polish up my frontend chops which are sorely lacking.
+For 2018 I want to step up my game and build the site using [GopherJS](https://github.com/gopherjs/gopherjs).  [Paul Jolly](https://twitter.com/_myitcv) has built some really clean React bindings for GopherJS, and I think this is a good opportunity for me to polish up my frontend chops which are sorely lacking.
 
 Since we don't really need the site to be functional until roughly the end of December (beyond a placeholder page) that gives me an opportunity to get all of this worked out and setup.  Here are my goals:
 
